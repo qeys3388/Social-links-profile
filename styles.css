@@ -17,7 +17,7 @@ body{
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
     .profile{
-      width: 60%;
+      width: 50%;
       background-color: hsl(0, 0%, 12%);
       padding: 1rem;
       border-radius: 1rem;
